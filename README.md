@@ -3,14 +3,14 @@
 # Horiseon Social Solution Services
 ---
 
-![GitHub License](https://img.shields.io/github/license/TEMPTAG/Challenge-Module-1?label=License)
+![GitHub License](https://img.shields.io/github/license/TEMPTAG/Horiseon-Social-Solution-Services?label=License)
 
 ## Description 
 
 The Horiseon Social Solution Services project is a single-page website that highlights the key services offered by Horiseon, including Search Engine Optimization (SEO), Online Reputation Management, and Social Media Marketing. The project was built to showcase the importance of these services in modern digital marketing and to provide a professional and visually appealing platform to attract potential clients.
 
 ![Horiseon Website Screenshot](/assets/images/horiseonScreenshot.jpg)
-[Visit the Deployed Site](https://temptag.github.io/Challenge-Module-1/)
+[Visit the Deployed Site](https://temptag.github.io/Horiseon-Social-Solution-Services/)
 
 ## Table of Contents
 - [Features](#features)
@@ -47,17 +47,18 @@ To run this project locally, follow these steps:
 1. Clone the Repository:
 ```bash
 Using HTTPS:
-git clone https://github.com/TEMPTAG/Challenge-Module-1.git
+git clone https://github.com/TEMPTAG/Horiseon-Social-Solution-Services.git 
 
 Using SSH:
-git clone git@github.com:TEMPTAG/Challenge-Module-1.git
+git clone git@github.com:TEMPTAG/Horiseon-Social-Solution-Services.git
 
 Using GitHub CLI:
-gh repo clone TEMPTAG/Challenge-Module-1
+gh repo clone TEMPTAG/Horiseon-Social-Solution-Services
 ```
+
 2. Navigate to the project directory:
 ```bash
-cd Challenge-Module-1
+cd Horiseon-Social-Solution-Services
 ```
 
 3. Open the `index.html` file in your browser to view the project.
@@ -74,7 +75,7 @@ This project serves as a template for creating a professional website for a digi
 
 ## Credits
 
-![GitHub contributors](https://img.shields.io/github/contributors/TEMPTAG/Challenge-Module-1?color=green) ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/TEMPTAG/Challenge-Module-1)
+![GitHub contributors](https://img.shields.io/github/contributors/TEMPTAG/Horiseon-Social-Solution-Services?color=green) ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/TEMPTAG/Horiseon-Social-Solution-Services)
 
 OH. MY. GOODNESS. Collaborations are amazing. Share ideas, code, etc. with others is the best way to share knowledge, mutual enthusiasms, and a lot of times we make cool friends along the way. I welcome contributions in many ways, shapes, and forms:
 
