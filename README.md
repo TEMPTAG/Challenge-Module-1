@@ -1,59 +1,113 @@
-# Challenge Module 1
+## <a name="top"></a>
+
+# Horiseon Social Solution Services
+---
+
+![GitHub License](https://img.shields.io/github/license/TEMPTAG/Challenge-Module-1?label=License)
 
 ## Description 
 
+The Horiseon Social Solution Services project is a single-page website that highlights the key services offered by Horiseon, including Search Engine Optimization (SEO), Online Reputation Management, and Social Media Marketing. The project was built to showcase the importance of these services in modern digital marketing and to provide a professional and visually appealing platform to attract potential clients.
+
+![Horiseon Website Screenshot](/assets/images/horiseonScreenshot.jpg)
 [Visit the Deployed Site](https://temptag.github.io/Challenge-Module-1/)
 
-Your GitHub profile is an extremely important aspect of your public identity as a developer. A well-crafted one allows you to show off your work to other developers as well as potential employers. An important component of your GitHub profile—and one that many new developers often overlook—is the README.md file.
+## Table of Contents
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+- [License](#license)
 
-The quality of a README often differentiates a good project from a bad project. A good one takes advantage of the opportunity to explain and showcase what your application does, justify the technologies used, and even talk about some of the challenges you faced and features you hope to implement in the future. A good README helps you stand out among the large crowd of developers putting their work on GitHub.
+---
 
-There's no one right way to structure a good README. There is one very wrong way, however, and that is to not include a README at all or to create a very anemic one. This guide outlines a few best practices. As you progress in your career, you will develop your own ideas about what makes a good README.
+## Features
 
-At a minimum, your project README needs a title and a short description explaining the what, why, and how. What was your motivation? Why did you build this project? (Note: The answer is not "Because it was a homework assignment.") What problem does it solve? What did you learn? What makes your project stand out? 
+- **Responsive Design**: The layout adapts smoothly to different screen sizes, ensuring a great user experience on any device.
+- **Floating Images**: Images in the content sections float left or right to create a dynamic and visually engaging layout.
+- **Hero Image**: A prominent hero image captures attention immediately, reinforcing the brand’s identity.
+- **Clean and Organized Layout**: The content is structured for easy navigation, allowing users to quickly find the information they need.
 
-Lastly, if your project is deployed, include a link to the deployed application here.
+---
 
-If you're new to Markdown, read the GitHub guide on [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
+## Technologies Used
 
-If you need an example of a good README, check out [the VSCode repository](https://github.com/microsoft/vscode).
+- **HTML5**: For semantic structuring of the webpage.
+- **CSS3**: For styling and layout, including responsive design techniques.
+- **Git**: For version control and collaboration.
 
-
-## Table of Contents (Optional)
-
-If your README is very long, add a table of contents to make it easy for users to find what they need.
-
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
-
+---
 
 ## Installation
+To run this project locally, follow these steps:
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+1. Clone the Repository:
+```bash
+Using HTTPS:
+git clone https://github.com/TEMPTAG/Challenge-Module-1.git
 
+Using SSH:
+git clone git@github.com:TEMPTAG/Challenge-Module-1.git
+
+Using GitHub CLI:
+gh repo clone TEMPTAG/Challenge-Module-1
+```
+2. Navigate to the project directory:
+```bash
+cd Challenge-Module-1
+```
+
+3. Open the `index.html` file in your browser to view the project.
+
+_No additional dependencies are required._
+
+---
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
+This project serves as a template for creating a professional website for a digital marketing company. It demonstrates effective use of HTML and CSS for building a structured, responsive, and visually appealing webpage.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-```md
-![alt text](assets/images/screenshot.png)
-```
-
+---
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+![GitHub contributors](https://img.shields.io/github/contributors/TEMPTAG/Challenge-Module-1?color=green) ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/TEMPTAG/Challenge-Module-1)
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+OH. MY. GOODNESS. Collaborations are amazing. Share ideas, code, etc. with others is the best way to share knowledge, mutual enthusiasms, and a lot of times we make cool friends along the way. I welcome contributions in many ways, shapes, and forms:
 
-If you followed tutorials, include links to those here as well.
+- [Email Me](mailto:iansterlingferguson@gmail.com) and just plain tell me what you like, do not like, would like to see changed... just give me a compliment before laying it on me
+- FORK IT ALL - create a fork, clone it down, mess it up, do the neato commits and comments, push it back, test it at least a million times, then submit a pull request for me to review and merge into the project if I think you are cool (and the code is cool too) - but again, the nice thing to do would be emailing me first and telling me your intentions... and don't forget the compliment part
 
+Something, something... Have your people call my people. And by call, I mean email - who answers the phone these days?
+
+---
+
+## Tests
+
+As the above states, please test your changes thoroughly before submitting a pull request or sending it straight to me. As far as tests I have done? None. Zero. Ziltch. I have not learned how to do that yet, so I am relying on you to do your part until I learn how to do mine.
+
+---
+
+## Questions
+
+Have questions about this project? Want to collaborate? Eager to discuss conspiracy theories or debate why your favorite car is not as cool as you think? [Email Me](mailto:iansterlingferguson@gmail.com) — just do not call, because I probably will not answer.
+
+Did this project make your life better in any way, shape, or form? Check out my other exceptionally rare moments of lucidity on my [GitHub Profile](https://github.com/TEMPTAG)
+
+---
 
 ## License
 
-The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
+This project is covered under the MIT License. The details of the MIT License can be found on their site [HERE](https://opensource.org/licenses/MIT). You can also see the full details of the [LICENSE](./LICENSE) for this specific project in the linked file.
+
+---
+
+<div align="center">
+<em>Copyright © 2024 Ian Ferguson - powered by caffine, love, and a little bit of fun</em>
+
+[Back to top](#top)
+
+</div>
